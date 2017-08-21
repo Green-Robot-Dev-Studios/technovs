@@ -1,0 +1,40 @@
+#particle {
+	background-color: #b61924;
+  	position:fixed;
+  	top:0;
+  	right:0;
+  	bottom:0;
+  	left:0;
+  	z-index:0; 
+}
+#overlay {
+	position: relative;
+	display: table;
+	margin: 0 auto;
+	width: 90%;
+}
+#header {
+	display: table;
+	margin: 0 auto;
+}
+#content {
+
+}
+#nav {
+	width: 20%;
+	float: left;
+	background-color: rgba(255, 0, 0, 0.2);
+	padding-bottom: 11%;
+}
+#home {
+	width: 80%;
+	float: right;
+	background-color: rgba(255, 0, 0, 0.2);
+}
+#footer {
+	clear: both;
+	background-color: rgba(255, 0, 0, 0.2);
+}
+.selected {
+	font-weight: bold;
+}
