@@ -17,13 +17,13 @@
 				</div>
 				<div id="content">
 					<div id="nav">
-						<h2>Links</h2>
+						<h1>Links</h1>
 						<ul>
-							<h3><li><a class="selected" href="">Home</a></li>
+							<h2><li><a class="selected" href="">Home</a></li>
 							<li><a href="about.php">About Our Site</a></li>
 							<li><a href="top.php">Top rated articles</a></li>
 							<li><a href="goal.php">Our Goal</a></li>
-							<li><a href="sitemap.php">Sitemap</a></li></h3>
+							<li><a href="sitemap.php">Sitemap</a></li></h2>
 						</ul>
 					</div>
 					<div id="home">
