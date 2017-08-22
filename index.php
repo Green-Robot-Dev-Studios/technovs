@@ -40,7 +40,7 @@
 					<div id="footer">
 					Copyright &copy; 2017 Nicholas Ficara
 					</div>
-				</div>	
+				</div>
 			</div>
 		<script src="js/particles.min.js"></script>
 		<script src="js/index.js"></script>
