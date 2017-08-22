@@ -13,7 +13,7 @@
 		<div id="particle"></div>
 			<div id="overlay">
 				<div id="header">
-					<img src="lib/logo.png">
+					<img src="lib/logo.png" border="10px">
 				</div>
 				<div id="content">
 					<div id="nav">
