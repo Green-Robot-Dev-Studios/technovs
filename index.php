@@ -22,7 +22,15 @@
   				   <a href="articles/phones/hawaeip10vsnote8.php">Hawaei P10 VS Note 8</a>
   				   <a href="">More to come...</a>
   				  </div>
-  				 </div>
+  				</div>
+  				<div class="dropdown">
+  				  <button class="dropbtn"><u>Mice and Keyboards</u></button>
+  				  <div class="dropdown-content">
+  				   <a href="articles/mice&keyboards/g502vsg900.php">Logitech G502 VS G900</a>
+  				   <a href="articles/mice&keyboards/magicmousevsg403.php">Apple Magic Mouse VS G403</a>
+  				   <a href="">More to come...</a>
+  				  </div>
+  				</div>
   				<a href="about.php">About</a>
   				<a href="sitemap.php">Sitemap</a>
 				</div>
@@ -52,8 +60,9 @@
 							</ul>
 							<ul>
 								<ul>
-									<h1>Test</h1>
-									Hallo
+									<h1>Apple Magic Mouse VS Logitech G403 
+									Wireless</h1>
+									The new G403 is a the king of the wireless gaming mouse category but will the Apple Mouse be able to beat it with it's beautiful style?
 								</ul>
 							</ul>
 						</div>
