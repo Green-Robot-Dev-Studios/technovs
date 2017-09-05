@@ -2,24 +2,20 @@
     display: flex;
     justify-content: space-between;
     flex: auto;
-    background-color: rgba(220, 50, 0, 0.6);
-    padding-left: 10px;
-    padding-right: 10px;
 }
 .boardz ul {
     list-style-type: none;
     flex-direction: column;
     justify-content: space-between;
-    padding: 0px 0px 4px 0px;
+    padding: 4px 0px 4px 0px;
     flex: 1;
-    color: rgba(0, 0, 0, 1);
 }
 .boardz ul li {
-    margin: 0px 4px 8px 4px;
-    padding: 16px;
+    margin: 8px 4px 8px 4px;
+    padding: 12px;
     flex: auto;
-    border: solid #000;
-    border-width: 0 1px;
+    background-color: #ffffff;
+    border: 1px solid #737373;
 }
 .boardz ul h1 {
     margin: 0 0 10px 0;

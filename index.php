@@ -43,26 +43,33 @@
 						<div class="boardz beautiful">
 							<ul>
 								<ul>
-									<h1>Samsung Galaxy S8 VS Google Pixel XL</h1>
+									<li>
+									<h1><a href="articles/phones/s8vspixelxl.php">Samsung Galaxy S8 VS Google Pixel XL</a></h1>
 									The new google pixel has a stunnning camera while the S8 can boast a better battery,
 									which is the better phone?
-									<h1>Logitech G502 VS G900</h1>
+									</li>
+									<li>
+									<h1><a href="articles/mice&keyboards/g502vsg900.php">Logitech G502 VS G900</a></h1>
 									These new flagship devices from logitech are incredible! But what to chose, a better
 									sensor or a better set of customisable buttons?
+									</li>
 								</ul>
 							</ul>
 							<ul>
 								<ul>
-									<h1>Hawaei P10 VS Note 8</h1>
+									<li>
+									<h1><a href="articles/phones/hawaeip10vsnote8.php">Hawaei P10 VS Note 8</a></h1>
 									An astonishing flagship camera on the P10 but will that be enough to tip you from the 
 									beautiful and big screen on the Note 8 with a stylus included!
+									</li>
 								</ul>
 							</ul>
 							<ul>
 								<ul>
-									<h1>Apple Magic Mouse VS Logitech G403 
-									Wireless</h1>
+									<li>
+									<h1><a href="articles/mice&keyboards/magicmousevsg403.php">Apple Magic Mouse VS Logitech G403 Wireless</a></h1>
 									The new G403 is a the king of the wireless gaming mouse category but will the Apple Mouse be able to beat it with it's beautiful style?
+									</li>
 								</ul>
 							</ul>
 						</div>
