@@ -13,32 +13,31 @@
 	<body>
 		<div id="particle"></div>
 			<div id="overlay">
-				<div class="topnav" id="myTopnav">
-  				<a href="" class="active">Home</a>
-  				<div class="dropdown">
-  				  <button class="dropbtn"><u>Phones</u></button>
-  				  <div class="dropdown-content">
-  				   <a href="articles/phones/s8vspixelxl.php">Samsung Galaxy S8 VS Google Pixel XL</a>
-  				   <a href="articles/phones/hawaeip10vsnote8.php">Hawaei P10 VS Note 8</a>
-  				   <a href="">More to come...</a>
-  				  </div>
-  				</div>
-  				<div class="dropdown">
-  				  <button class="dropbtn"><u>Mice and Keyboards</u></button>
-  				  <div class="dropdown-content">
-  				   <a href="articles/mice&keyboards/g502vsg900.php">Logitech G502 VS G900</a>
-  				   <a href="articles/mice&keyboards/magicmousevsg403.php">Apple Magic Mouse VS G403</a>
-  				   <a href="">More to come...</a>
-  				  </div>
-  				</div>
-  				<a href="about.php">About</a>
-  				<a href="sitemap.php">Sitemap</a>
-				</div>
-				<div id="header">
-					<img src="lib/logo.png" border="10px">
-				</div>
+				<div class="topnav">
+					<a href="" class="active">Home</a>
+					<div class="dropdown">
+						<button class="dropbtn"><u>Phones</u></button>
+						<div class="dropdown-content">
+						<a href="articles/phones/s8vspixelxl.php">Samsung Galaxy S8 VS Google Pixel XL</a>
+						<a href="articles/phones/hawaeip10vsnote8.php">Hawaei P10 VS Note 8</a>
+						<a href="">More to come...</a>
+						</div>
+					</div>
+					<div class="dropdown">
+						<button class="dropbtn"><u>Mice and Keyboards</u></button>
+						<div class="dropdown-content">
+						<a href="articles/mice&keyboards/g502vsg900.php">Logitech G502 VS G900</a>
+						<a href="articles/mice&keyboards/magicmousevsg403.php">Apple Magic Mouse VS G403</a>
+						<a href="">More to come...</a>
+						</div>
+					</div>
+					<a href="about.php">About</a>
+					<a href="sitemap.php">Sitemap</a>
+					</div>
+					<div id="header">
+						<img src="lib/logo.png" border="10px">
+					</div>
 				<div id="content">
-
 					<div id="home">
 						<div class="boardz beautiful">
 							<ul>
@@ -76,7 +75,7 @@
 					</div>
 					<div id="footer">
 							Copyright &copy; 2017 Nicholas Ficara
-						</div>
+					</div>
 				</div>
 			</div>
 		<script src="js/particles.min.js"></script>

@@ -1,33 +1,42 @@
 a {
     color: black;
 }
+#Topnavstyle {
+    font-family: arial;
+}
 #particle {
-	background-color: #b61924;
-  	position:fixed;
-  	top:0;
-  	right:0;
-  	bottom:0;
-  	left:0;
-  	z-index:0;
+    background-color: #b61924;
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index:0;
 }
 #overlay {
-	position: relative;
-	display: table;
-	margin: 0 auto;
-	width: 90%;
+    position: relative;
+    display: table;
+    margin: 0 auto;
+    width: 90%;
 }
 #header {
-	display: table;
-	margin: 0 auto;
-	clear: both;
+    display: table;
+    margin: 0 auto;
+    clear: both;
 }
+#main-content {
+    background-color: rgba(220, 50, 0, 0.6);
+    padding: 20px;
+    font-family: arial;
+    font-size: 18px;
 
+}
 #content {
 }
 #footer {
-	clear: both;
-	background-color: rgba(255, 0, 0, 0.2)
-	padding: 10px;
+    clear: both;
+    background-color: rgba(255, 0, 0, 0.2)
+    padding: 10px;
 }
 .topnav {
     background-color: #333;
@@ -88,6 +97,11 @@ a {
 
 .dropdown-content a:hover {
     background-color: #ddd;
+}
+
+.dropbtn a.active {
+    background-color: #4CAF50;
+    color: white;
 }
 
 .dropdown:hover .dropdown-content {
