@@ -5,7 +5,7 @@ a {
     font-family: arial;
 }
 #particle {
-    background-color: #b61924;
+    background-color: rgba(255, 40, 0, 1);
     position:fixed;
     top:0;
     right:0;
@@ -26,7 +26,7 @@ a {
 }
 #main-content {
     background-color: rgba(220, 50, 0, 0.6);
-    padding: 20px;
+    padding: 10px;
     font-family: arial;
     font-size: 18px;
 

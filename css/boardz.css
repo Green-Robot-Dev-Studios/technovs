@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     flex: auto;
-    background-color: rgba(220, 50, 0, 0.6);
     padding-left: 10px;
     padding-right: 10px;
 }
