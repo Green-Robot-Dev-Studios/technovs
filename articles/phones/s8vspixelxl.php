@@ -39,7 +39,12 @@
 			</div>
 			<div id="main-content">
 				<h1>Google Pixel XL VS Samsung Galaxy S8</h1>
-				A battle for the title of the best phone. An endless battle with huge reward. As the Pixel and the S8 go head to head in this flaming battle, we will find out which is best and the other will go crashing down in flames! 
+				<p>A battle for the title of the best phone. An endless battle with huge reward. As the Pixel and the S8 go head to head in this flaming battle, we will find out which is best and the other will go crashing down in flames! </p>
+			
+				<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=nficara01-20&marketplace=amazon&region=US&placement=B06Y137TLR&asins=B06Y137TLR&linkId=583f54c58e72b701d5bb21477913d6bf&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+				</iframe>
+	    		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=nficara01-20&marketplace=amazon&region=US&placement=B01M0PADR4&asins=B01M0PADR4&linkId=1ebf536e8bcab2fd4c131463cc53f090&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+				</iframe>
 			</div>
 		</div>
 	</div>

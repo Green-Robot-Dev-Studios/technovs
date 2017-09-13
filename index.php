@@ -9,11 +9,24 @@
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/boardz.css">
 		<meta name="theme-color" content="#ffffff">
+		<script src="js/push.js"></script>
 	</head>
 	<body>
 		<div id="particle"></div>
 			<div id="overlay">
 				<div class="topnav">
+					<script type="text/javascript">
+						Push.create("Thanks for activating push notifications!", {
+						    body: "No worries, we wont spam.",
+						    icon: 'lib/logo.png',
+						    timeout: 6000,
+						    onClick: function () {
+						        window.focus();
+						        this.close();
+						    }
+						});
+					</script>
+					
 					<a href="" class="active">Home</a>
 					<div class="dropdown">
 						<button class="dropbtn"><u>Phones</u></button>
@@ -78,6 +91,7 @@
 					</div>
 				</div>
 			</div>
+		
 		<script src="js/particles.min.js"></script>
 		<script src="js/index.js"></script>
 	</body>
